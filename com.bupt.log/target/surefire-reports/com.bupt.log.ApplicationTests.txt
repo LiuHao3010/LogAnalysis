@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.bupt.log.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.135 s <<< FAILURE! - in com.bupt.log.ApplicationTests
+contextLoads(com.bupt.log.ApplicationTests)  Time elapsed: 0.315 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.bupt.log.ApplicationTests.contextLoads(ApplicationTests.java:22)
+
